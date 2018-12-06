@@ -1,4 +1,4 @@
-# Hello Example in Visual Studio
+# Hello example in Visual Studio
 
 Greeting All
 
